@@ -1,6 +1,6 @@
 # Projeto Institucional para o Desenvolvimento
 
-**Versão atual:** `v1.0.0` \| **Licença:** `CC BY-SA 4.0` \| **Status:** Aberto para revisão acadêmica e colaboração cívica
+**Versão atual:** `v1.1.0` \| **Licença:** `CC BY-SA 4.0` \| **Status:** Aberto para revisão acadêmica e colaboração cívica
 
 Este repositório hospeda o texto-base, as fontes de dados e o histórico de revisões da **Nota Técnica nº 01 / 2026 — Projeto Institucional para o Desenvolvimento**.
 
