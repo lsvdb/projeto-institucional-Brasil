@@ -6,7 +6,7 @@
 
 | Metadado | Especificação |
 | :--- | :--- |
-| **Versão Atual** | `v1.0.0` — Edição inicial para revisão técnica por pares e consulta pública (Novembro de 2026) |
+| **Versão Atual** | `v1.2.0` — Edição inicial para revisão técnica por pares e consulta pública (Novembro de 2026) |
 | **Licença Livre** | `CC BY-SA 4.0` (Atribuição-CompartilhaIgual 4.0 Internacional) — reprodução, adaptação e aprimoramento livres |
 | **Regime de Autoria** | Bem público cívico e suprapartidário, sem vínculo partidário ou proprietário |
 | **Fluxo de Revisão** | Versionamento aberto estilo repositório (sugestões via *Issues*, redação via *Pull Requests* e registro histórico em *Changelog* sob curadoria técnica) |
