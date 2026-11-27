@@ -2,7 +2,7 @@
 
 ### Eficiência Estatal, Voto Distrital por Aprovação e Integridade do Sistema de Justiça
 
->  *Documento Aberto à Revisão Acadêmica e Colaboração Cívica*
+> *Documento Aberto à Revisão Acadêmica e Colaboração Cívica*
 
 | Metadado | Especificação |
 | :--- | :--- |
@@ -97,6 +97,14 @@ Garantias como a vitaliciedade e a independência funcional foram concebidas par
 - **Fim das Votações Simbólicas em Matérias de Mérito:** Obrigatoriedade de registro eletrônico individual em painel público para qualquer votação de projeto de lei, emenda constitucional, medida provisória ou requerimento de urgência, vinculando diretamente a decisão do parlamentar aos eleitores de seu distrito.
 - **Transparência nas Cortes e Conselhos:** Extensão da vedação ao voto secreto para deliberações disciplinares e eleições administrativas nos tribunais superiores, no CNJ e no CNMP.
 
+### 2.5. Pacto Plurianual de Metas Essenciais (Formulação Legislativa e Execução Vinculante)
+
+Em substituição ao balcão de emendas parlamentares pulverizadas, o Poder Legislativo assume sua função constitucional de formulação estratégica e fiscalização de resultados, instituindo um ciclo obrigatório de pactuação entre os Poderes (inspirado nos Public Service Agreements britânicos e na LOLF francesa):
+
+- **Formulação Técnica pelo Legislativo:** Nos primeiros 90 dias de cada legislatura (nas esferas federal, estadual e municipal), as comissões temáticas do Parlamento — apoiadas pelo corpo de consultores legislativos concursados e por audiências públicas obrigatórias com universidades, entidades de classe e especialistas setoriais — elaboram e aprovam o Caderno de Metas Essenciais, contendo indicadores físicos e auditáveis para serviços básicos (cobertura de coleta e tratamento de esgoto, pavimentação e drenagem urbana, alfabetização na idade certa, cobertura vacinal e tempo máximo de espera para procedimentos no SUS).
+- **Pactuação Vinculante no PPA:** O caderno formulado pelo Legislativo é incorporado à Lei do Plano Plurianual (PPA) e celebrado como contrato de desempenho com o Poder Executivo, detalhando metas anuais regionalizadas ou distritais e as respectivas fontes de financiamento.
+- **Execução Obrigatória e Sanção por Descumprimento:** As dotações orçamentárias vinculadas ao cumprimento dessas metas tornam-se de execução obrigatória pelo Executivo. O descumprimento injustificado de pelo menos 80% das metas anuais pactuadas bloqueia automaticamente a abertura de créditos suplementares discricionários para publicidade institucional e cargos comissionados do Executivo, além de tipificar infração político-administrativa passível de responsabilização perante o Legislativo e os Tribunais de Contas.
+
 ---
 
 ---
@@ -132,7 +140,7 @@ Garantias como a vitaliciedade e a independência funcional foram concebidas par
 
 ### Quadro Síntese da Transição Institucional
 
-| Eixo Institucional | Desenho Atual (Extrativista) | Proposta de Reforma (Inclusiva) | Instrumento Jurídico |
+| **Eixo Institucional** | Desenho Atual (Extrativista) | Proposta de Reforma (Inclusiva) | Instrumento Jurídico |
 | :--- | :--- | :--- | :--- |
 | **Orçamento Público** | Emendas impositivas pulverizam recursos em obras paroquiais sem critério técnico. | Extinção das emendas impositivas; investimentos centralizados no PPA técnico e auditável. | Proposta de Emenda à Constituição (PEC) |
 | **Estatais e Autarquias** | Loteamento político direto pelo chefe do Executivo em todas as esferas. | Conselho técnico (50% carreira, 30% independentes, 20% governo) elege o presidente via Contrato de Gestão. | PEC + Reforma da Lei 13.303/2016 |
