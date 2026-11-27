@@ -1,8 +1,8 @@
 # Projeto Institucional para o Desenvolvimento
 
-**Versão atual:** `v1.1.0` \| **Licença:** `CC BY-SA 4.0` \| **Status:** Aberto para revisão acadêmica e colaboração cívica
+**Versão atual:** `v1.2.0` \| **Licença:** `CC BY-SA 4.0` \| **Status:** Aberto para revisão acadêmica e colaboração cívica
 
-Este repositório hospeda o texto-base, as fontes de dados e o histórico de revisões da **Nota Técnica nº 01 / 2026 — Projeto Institucional para o Desenvolvimento**.
+Este repositório hospeda o texto-base, as fontes de dados e o histórico de revisões da **2026 — Projeto Institucional para o Desenvolvimento**.
 
 Trata-se de um **documento aberto, suprapartidário e sem vínculo proprietário**, concebido como um bem público intelectual. O objetivo é reunir contribuições de cientistas políticos, juristas, economistas, gestores públicos e cidadãos para consolidar uma proposta tecnicamente robusta de reforma institucional no Brasil — pronta para subsidiar o debate público, sugestões legislativas e pressão democrática sobre o Congresso Nacional.
 
