@@ -20,3 +20,14 @@ Todas as mudanças relevantes na arquitetura conceitual e normativa deste projet
 * Publicação inicial da **Nota Técnica nº 01 / 2026** (*Projeto Institucional para o Desenvolvimento*).
 * Estruturação dos três eixos fundacionais: Orçamento Técnico e Blindagem de Estatais; Voto Distrital por Aprovação Limitado (até 3 escolhas) e fim da reeleição; Mandatos fixos, teto efetivo, métricas públicas de produtividade e demissão funcional no Sistema de Justiça.
 * Inclusão do **Manifesto Cívico** e documentação de governança aberta (`README.md` e `CONTRIBUTING.md`).
+
+
+## [1.2.0] - 2026-11-26
+
+### Adicionado
+* **Pacto Plurianual de Metas Essenciais (Item 2.5):** Criação de mecanismo constitucional vinculante no qual o Poder Legislativo, subsidiado por consultores concursados e audiências técnicas com especialistas, formula nos primeiros 90 dias de mandato um caderno de metas mensuráveis (saneamento, pavimentação, educação básica e saúde) incorporado ao PPA para execução obrigatória pelo Poder Executivo.
+* **Mecanismo de Sanção por Ineficiência:** Bloqueio automático de verbas discricionárias de publicidade institucional e cargos comissionados do Executivo em caso de descumprimento injustificado de pelo menos 80% das metas anuais pactuadas.
+* **Quadro Síntese:** Inclusão da linha *Metas de Gestão Pública* detalhando a transição institucional e o instrumento jurídico correspondente.
+
+### Alterado
+* Atualização do **Resumo Executivo** e do cabeçalho de metadados para refletir a versão `v1.2.0`.
